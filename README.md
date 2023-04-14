@@ -2,7 +2,7 @@
 Edit or create SVG paths in browser: https://yqnn.github.io/svg-path-editor/
 [![Image of Yaktocat](./doc/screenshot.png)](https://yqnn.github.io/svg-path-editor/)
 
-## How to Use
+
 
 ##### Basic:
 - Paste or edit the raw path in the **path** field
